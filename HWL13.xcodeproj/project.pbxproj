@@ -13,6 +13,7 @@
 		7D7D345B2C0ED88B0083953D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 7D7D345A2C0ED88B0083953D /* Base */; };
 		7D7D345D2C0ED88C0083953D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D7D345C2C0ED88C0083953D /* Assets.xcassets */; };
 		7D7D34602C0ED88C0083953D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 7D7D345F2C0ED88C0083953D /* Base */; };
+		7D7D34682C0EFE1A0083953D /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7D34672C0EFE1A0083953D /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7D7D345C2C0ED88C0083953D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D7D345F2C0ED88C0083953D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D7D34612C0ED88C0083953D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D7D34672C0EFE1A0083953D /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7D7D34532C0ED88B0083953D /* AppDelegate.swift */,
 				7D7D34552C0ED88B0083953D /* SceneDelegate.swift */,
 				7D7D34572C0ED88B0083953D /* ViewController.swift */,
+				7D7D34672C0EFE1A0083953D /* CircleView.swift */,
 				7D7D34592C0ED88B0083953D /* Main.storyboard */,
 				7D7D345C2C0ED88C0083953D /* Assets.xcassets */,
 				7D7D345E2C0ED88C0083953D /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D7D34682C0EFE1A0083953D /* CircleView.swift in Sources */,
 				7D7D34582C0ED88B0083953D /* ViewController.swift in Sources */,
 				7D7D34542C0ED88B0083953D /* AppDelegate.swift in Sources */,
 				7D7D34562C0ED88B0083953D /* SceneDelegate.swift in Sources */,
